@@ -22,16 +22,16 @@ detalhes completos de cada obra.
 	•	**TMDB API**
 
 ## 📂 Estrutura do Projeto
-vidarix/
-│── src/
-│   ├── components/     # Componentes reutilizáveis
-│   ├── pages/          # Páginas da aplicação
-│   ├── styles/         # Estilos com Tailwind
-│   ├── utils/          # Funções auxiliares
-│   └── App.jsx         # Estrutura principal
-│
-│── public/             # Arquivos estáticos (imagens, ícones)
-│── package.json        # Dependências e scripts
+	vidarix/
+	│── src/
+	│   ├── components/     # Componentes reutilizáveis
+	│   ├── pages/          # Páginas da aplicação
+	│   ├── styles/         # Estilos com Tailwind
+	│   ├── utils/          # Funções auxiliares
+	│   └── App.jsx         # Estrutura principal
+	│
+	│── public/             # Arquivos estáticos (imagens, ícones)
+	│── package.json        # Dependências e scripts
 
 ## 🎨 Layout
 	•	Interface moderna e responsiva
@@ -46,7 +46,5 @@ vidarix/
 
 Este projeto é licenciado sob a Licença MIT.
 	•	Licença
-
-
 
 ## 👨‍💻 Desenvolvido por Janderson Vidal

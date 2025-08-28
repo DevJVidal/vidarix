@@ -19,24 +19,6 @@ Vidarix é um projeto de plataforma de streaming estilo Netflix, que permite aos
 - **Tailwind CSS**: Framework de estilização para criar um design moderno e responsivo.
 - **TMDB API**: API externa utilizada para buscar filmes, séries e trailers.
 
-## Como usar
-
-1. Instale as dependências:
-
-```bash
-npm install
-```
-
-2. Configure sua **API key** do TMDB em `utils/tmdb.js`.
-
-3. Rode o projeto em ambiente de desenvolvimento:
-
-```bash
-npm run dev
-```
-
-4. Abra seu navegador em [http://localhost:3000](http://localhost:3000) para visualizar o projeto.
-
 ## Créditos
 
 🧑🏻‍💻 Desenvolvido por **Janderson Vidal**

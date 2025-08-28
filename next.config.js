@@ -5,7 +5,6 @@ const nextConfig = {
     unoptimized: true,
   },
   basePath: "/vidarix", 
-  assetPrefix: "/vidarix/",
 };
 
 module.exports = nextConfig;

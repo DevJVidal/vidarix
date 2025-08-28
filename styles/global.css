@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-primary text-white;
+}
+
+/* Remove scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+/* Fade-in animation */
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateY(20px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+.fade-in {
+  animation: fadeIn 1s ease forwards;
+}
+
+@keyframes pulse-bg {
+  0%, 100% { background-color: rgba(255,255,255,0); }
+  50% { background-color: rgba(255,255,255,0.1); }
+}
+
+.animate-pulse-bg {
+  animation: pulse-bg 2s ease-in-out 1;
+}

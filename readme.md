@@ -8,12 +8,12 @@ detalhes completos de cada obra.
 
 # 📌 Funcionalidades
 	Exibição de filmes e séries em alta
-	•	Banner de destaque para o conteúdo mais relevante
-	•	Pesquisa de filmes e séries por título
-	•	Filtros por gênero
-	•	Modal detalhado com trailer e sinopse
-	•	Layout responsivo para desktop e mobile
-	•	Footer personalizado com créditos do desenvolvedor
+	Banner de destaque para o conteúdo mais relevante
+	Pesquisa de filmes e séries por título
+	Filtros por gênero
+	Modal detalhado com trailer e sinopse
+	Layout responsivo para desktop e mobile
+	Footer personalizado com créditos do desenvolvedor
 
 ## 🛠️ Tecnologias Utilizadas
 	•	**React.js**

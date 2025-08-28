@@ -6,8 +6,8 @@ gêneros.
 Conta com um banner de destaque para o título em alta e modais com
 detalhes completos de cada obra.
 
-## 📌 Funcionalidades
-	•	Exibição de filmes e séries em alta
+# 📌 Funcionalidades
+	Exibição de filmes e séries em alta
 	•	Banner de destaque para o conteúdo mais relevante
 	•	Pesquisa de filmes e séries por título
 	•	Filtros por gênero

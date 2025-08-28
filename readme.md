@@ -16,10 +16,10 @@ detalhes completos de cada obra.
 	Footer personalizado com créditos do desenvolvedor
 
 ## 🛠️ Tecnologias Utilizadas
-**React.js**
-**Next.js**
-**TailwindCSS**
-**TMDB API**
+	**React.js**
+	**Next.js**
+	**TailwindCSS**
+	**TMDB API**
 
 ## 📂 Estrutura do Projeto
 	vidarix/

@@ -1,30 +1,52 @@
-# Vidarix
+# 🎬 Vidarix
 
-Vidarix é um projeto de plataforma de streaming estilo Netflix, que permite aos usuários explorar filmes e séries, visualizar trailers, pesquisar conteúdos e filtrar por gêneros. Ele também conta com um **banner de destaque** para o filme ou série em alta, além de modais para detalhes completos de cada título.
+Uma plataforma de streaming estilo Netflix, que permite explorar
+filmes e séries, assistir trailers, pesquisar conteúdos e filtrar por
+gêneros.
+Conta com um banner de destaque para o título em alta e modais com
+detalhes completos de cada obra.
 
-## Funcionalidades
+## 📌 Funcionalidades
+	•	Exibição de filmes e séries em alta
+	•	Banner de destaque para o conteúdo mais relevante
+	•	Pesquisa de filmes e séries por título
+	•	Filtros por gênero
+	•	Modal detalhado com trailer e sinopse
+	•	Layout responsivo para desktop e mobile
+	•	Footer personalizado com créditos do desenvolvedor
 
-- Exibição de filmes e séries em alta.
-- Banner com destaque para o conteúdo mais relevante.
-- Pesquisa de filmes e séries por título.
-- Filtros por gênero para filmes e séries.
-- Modal detalhado com trailer e sinopse do filme ou série.
-- Layout responsivo para desktop e dispositivos móveis.
-- Footer personalizado com crédito do desenvolvedor.
+## 🛠️ Tecnologias Utilizadas
+	•	**React.js**
+	•	**Next.js**
+	•	**TailwindCSS**
+	•	**TMDB API**
 
-## Tecnologias Utilizadas
+## 📂 Estrutura do Projeto
+vidarix/
+│── src/
+│   ├── components/     # Componentes reutilizáveis
+│   ├── pages/          # Páginas da aplicação
+│   ├── styles/         # Estilos com Tailwind
+│   ├── utils/          # Funções auxiliares
+│   └── App.jsx         # Estrutura principal
+│
+│── public/             # Arquivos estáticos (imagens, ícones)
+│── package.json        # Dependências e scripts
 
-- **React.js**: Biblioteca JavaScript para construção da interface do usuário.
-- **Next.js**: Framework React para renderização do lado do servidor e rotas simplificadas.
-- **Tailwind CSS**: Framework de estilização para criar um design moderno e responsivo.
-- **TMDB API**: API externa utilizada para buscar filmes, séries e trailers.
+## 🎨 Layout
+	•	Interface moderna e responsiva
+	•	Destaque visual para títulos em alta
+	•	Experiência fluida em desktop e dispositivos móveis
 
-## Créditos
+## 📜 Observações
+	•	Projeto frontend apenas, sem backend próprio
+	•	Requer conexão com a internet para consumir dados da TMDB API
 
-🧑🏻‍💻 Desenvolvido por **Janderson Vidal**
+## 📜 Licença
 
-## Observações
+Este projeto é licenciado sob a Licença MIT.
+	•	Licença
 
-- Projeto frontend apenas, sem backend próprio.
-- Requer conexão com a internet para consumir dados da TMDB API.
 
+
+## 👨‍💻 Desenvolvido por Janderson Vidal

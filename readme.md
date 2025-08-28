@@ -1,54 +1,30 @@
 # 🎬 Vidarix
 
-Uma plataforma interativa de streaming estilo **Netflix**, desenvolvida em **Next.js**, para explorar filmes e séries de forma dinâmica e intuitiva.  
-O objetivo é oferecer uma experiência de navegação completa, com **banner em destaque, pesquisa, filtros e trailers**.
+Vidarix é um projeto de plataforma de streaming estilo Netflix, que permite aos usuários explorar filmes e séries, visualizar trailers, pesquisar conteúdos e filtrar por gêneros. Ele também conta com um **banner de destaque** para o filme ou série em alta, além de modais para detalhes completos de cada título.
 
-------------------------------------------------------------------------
+## Funcionalidades
 
-## 📌 Funcionalidades
+- Exibição de filmes e séries em alta.
+- Banner com destaque para o conteúdo mais relevante.
+- Pesquisa de filmes e séries por título.
+- Filtros por gênero para filmes e séries.
+- Modal detalhado com trailer e sinopse do filme ou série.
+- Layout responsivo para desktop e dispositivos móveis.
+- Footer personalizado com crédito do desenvolvedor.
 
--   Exibição de **filmes e séries em alta**.
--   **Banner em destaque** com informações principais do filme/série.
--   **Pesquisa** por título de filmes e séries.
--   **Filtros por gênero** (ação, comédia, romance, terror, etc).
--   **Modal detalhado** com trailer, sinopse e informações adicionais.
--   Interface **responsiva** para desktop e mobile.
--   **Footer estilizado** com crédito ao desenvolvedor.
+## Tecnologias Utilizadas
 
-------------------------------------------------------------------------
+- **React.js**: Biblioteca JavaScript para construção da interface do usuário.
+- **Next.js**: Framework React para renderização do lado do servidor e rotas simplificadas.
+- **Tailwind CSS**: Framework de estilização para criar um design moderno e responsivo.
+- **TMDB API**: API externa utilizada para buscar filmes, séries e trailers.
 
-## 🛠️ Tecnologias Utilizadas
+## Créditos
 
--   [Next.js](https://nextjs.org/)  
--   [React](https://react.dev/)  
--   [TailwindCSS](https://tailwindcss.com/)  
--   [TMDB API](https://www.themoviedb.org/documentation/api)  
+🧑🏻‍💻 Desenvolvido por **Janderson Vidal**
 
-------------------------------------------------------------------------
+## Observações
 
-## 📂 Estrutura do Projeto
+- Projeto frontend apenas, sem backend próprio.
+- Requer conexão com a internet para consumir dados da TMDB API.
 
-    vidarix/
-    │── components/       # Componentes reutilizáveis (Banner, Footer, MovieRow etc.)
-    │── pages/            # Páginas da aplicação (Home, Pesquisa, etc.)
-    │── public/           # Arquivos estáticos (favicon, imagens)
-    │── styles/           # Estilos globais
-    │── utils/            # Funções auxiliares (API, helpers)
-    │── package.json      # Dependências e scripts
-
-------------------------------------------------------------------------
-
-## 🎨 Layout
-
--   Tema moderno e minimalista.
--   Placeholder translúcido nos cards de filmes.
--   Design responsivo para **desktop e mobile**.
--   Experiência inspirada em plataformas de streaming.
-
-------------------------------------------------------------------------
-
-## 📜 Este projeto é licenciado sob a **Licença MIT**.
-- [Licença](https://github.com/DevJVidal/vidarix?tab=License-1-ov-file)
-
-------------------------------------------------------------------------
-👨‍💻 Desenvolvido por **Janderson Vidal**
